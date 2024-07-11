@@ -7,6 +7,7 @@ It reacts to :
 - Gravity
 - Wind
 - Solid objects and ground
+<img src="tissuresized.png" alt="Fabric Example" width="400"/>
 
 ## Solid
 The solid is a high poly mesh of triangles, encapsulated in a lower resolution mesh of tetrahedrons. Tetrahedrons are better than triangles to make good solid simulations. They are generated from a mesh of triangles using the tool TetGen.\
@@ -15,3 +16,6 @@ It reacts to :
 - Gravity
 - Wind
 - Solid objects and ground
+<img src="omardresized.png" alt="Solid Example" width="400"/>
+
+
